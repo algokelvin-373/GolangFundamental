@@ -1,2 +1,2 @@
-# training-Golang-fundamental
+# Golang Fundamental
 This is Code Golang Fundamental
